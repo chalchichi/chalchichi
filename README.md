@@ -1,5 +1,5 @@
 ### Hi there 👋
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/yunhoo-oh)](https://www.linkedin.com/in/www.linkedin.com/in/yunhoo-oh)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yunhoo-oh/)](https://www.linkedin.com/in/yunhoo-oh/)
 	
 <!--
 **chalchichi/chalchichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
